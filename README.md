@@ -1,5 +1,5 @@
 Python  installation 
-1. Go to Python.org   
+1. Go to Python.org   (Python version 3.7 +)
 2.Click Python download 
 3. In Mac Os  
     (i) GO to terminal and type "python --version" --> If python version shows in terminal good to go 
